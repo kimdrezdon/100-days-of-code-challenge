@@ -36,3 +36,9 @@
 
 **Link(s) to work**:
 1. [Basic Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/)
+
+### Day 5: December 18, Wednesday
+
+**Today's Progress**: Converted database on full-stack app from sqlite to mySQL.  
+
+**Thoughts**: I learned how to create an issue and a new branch on my own repo in GitHub. I used youtube tutorials and articles to learn how to install mySQL and then convert the database on my full-stack app from sqlite to mySQL. Next I need to learn how to deploy to Heroku.
