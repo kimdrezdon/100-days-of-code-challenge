@@ -42,3 +42,12 @@
 **Today's Progress**: Converted database on full-stack app from sqlite to mySQL.  
 
 **Thoughts**: I learned how to create an issue and a new branch on my own repo in GitHub. I used youtube tutorials and articles to learn how to install mySQL and then convert the database on my full-stack app from sqlite to mySQL. Next I need to learn how to deploy to Heroku.
+
+### Day 6: December 19, Thursday
+
+**Today's Progress**: Completed the Object Oriented Programming section on freeCodeCamp.  
+
+**Thoughts**: I learned about prototype inheritance and the prototype chain. I also learned about mixins and how to use IIFEs to write them as a module. I have learned object oriented programming before, but this section clarified a lot of terms that used to make my eyes glaze over. I didn't feel like coding today after working so hard yesterday, but I'm glad I did because this was really helpful.
+
+**Link(s) to work**:
+1. [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/)
