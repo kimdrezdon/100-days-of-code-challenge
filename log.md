@@ -51,3 +51,12 @@
 
 **Link(s) to work**:
 1. [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/)
+
+### Day 7: December 20, Friday
+
+**Today's Progress**: Solved the Making Anagrams challenge on Hacker Rank  
+
+**Thoughts**: My brain was feeling foggy, so learning new things wasn't an option. I settled for solving an 'easy' HackerRank. It took me way longer than expected to solve it but I finally did it, and as always, I learned from it.
+
+**Link(s) to work**:
+1. [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
