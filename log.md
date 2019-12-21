@@ -54,9 +54,19 @@
 
 ### Day 7: December 20, Friday
 
-**Today's Progress**: Solved the Making Anagrams challenge on Hacker Rank  
+**Today's Progress**: Solved the Making Anagrams challenge on HackerRank  
 
 **Thoughts**: My brain was feeling foggy, so learning new things wasn't an option. I settled for solving an 'easy' HackerRank. It took me way longer than expected to solve it but I finally did it, and as always, I learned from it.
 
 **Link(s) to work**:
 1. [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+
+### Day 8: December 21, Saturday
+
+**Today's Progress**: Solved two string manipulation challenges on HackerRank  
+
+**Thoughts**: I solved the easy challenge immediately, but the medium challenge took me a while and my code got kind of long, but at least I solved it. I got another start on my problem solving badge.
+
+**Link(s) to work**:
+1. [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+2. [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
