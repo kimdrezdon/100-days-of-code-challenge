@@ -70,3 +70,9 @@
 **Link(s) to work**:
 1. [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
 2. [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+
+### Day 9: December 22, Sunday
+
+**Today's Progress**: Prepared my full-stack app for deployment  
+
+**Thoughts**: I reorganized and edited my app to prepare it for deployment. I got stuck trying to figure out the database part of it. I will work on that next time.
