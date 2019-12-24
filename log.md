@@ -76,3 +76,12 @@
 **Today's Progress**: Prepared my full-stack app for deployment  
 
 **Thoughts**: I reorganized and edited my app to prepare it for deployment. I got stuck trying to figure out the database part of it. I will work on that next time.
+
+### Day 10: December 23, Monday
+
+**Today's Progress**: Completed the Functional Programming section on FreeCodeCamp  
+
+**Thoughts**: I learned a lot from this section about how to create non-mutating functions. I practiced some array methods I've used plenty of times before, as well as some new ones I've never tried. This was a very helpful section.
+
+**Link(s) to work**:
+1. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
