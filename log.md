@@ -85,3 +85,12 @@
 
 **Link(s) to work**:
 1. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/)
+
+### Day 11: December 27, Friday
+
+**Today's Progress**: Made it 1/4 of the way through the Intermediate Algorithm Scripting section on FreeCodeCamp  
+
+**Thoughts**: I learned how to use the arguments object, and got some much needed regex practice in.
+
+**Link(s) to work**:
+1. [Intermediate Algorithm Scription](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
