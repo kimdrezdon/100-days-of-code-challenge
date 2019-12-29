@@ -94,3 +94,12 @@
 
 **Link(s) to work**:
 1. [Intermediate Algorithm Scription](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+### Day 12: December 28, Saturday
+
+**Today's Progress**: Made a bit of progress on the Intermediate Algorithm Scripting section on FreeCodeCamp
+
+**Thoughts**: I also used the automated pull request feature for security vulnerabilities on Github for the first time. I forgot to post my log because I had appointments to go to.
+
+**Link(s) to work**:
+1. [Intermediate Algorithm Scription](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
