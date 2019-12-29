@@ -93,7 +93,7 @@
 **Thoughts**: I learned how to use the arguments object, and got some much needed regex practice in.
 
 **Link(s) to work**:
-1. [Intermediate Algorithm Scription](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
 
 ### Day 12: December 28, Saturday
 
@@ -102,4 +102,10 @@
 **Thoughts**: I also used the automated pull request feature for security vulnerabilities on Github for the first time. I forgot to post my log because I had appointments to go to.
 
 **Link(s) to work**:
-1. [Intermediate Algorithm Scription](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+### Day 13: December 29, Sunday
+
+**Today's Progress**: Made more progress towards deploying my full stack app to Heroku
+
+**Thoughts**: I was able to deploy it to Heroku and set up the clearDB database. When I test the heroku app locally it works fine. When I test just the heroku server locally I get an error that I can't resolve. I will try to fix tomorrow.
