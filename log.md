@@ -109,3 +109,9 @@
 **Today's Progress**: Made more progress towards deploying my full stack app to Heroku
 
 **Thoughts**: I was able to deploy it to Heroku and set up the clearDB database. When I test the heroku app locally it works fine. When I test just the heroku server locally I get an error that I can't resolve. I will try to fix tomorrow.
+
+### Day 14: December 30, Monday
+
+**Today's Progress**: Finished deploying my full stack app to Heroku and updated my portfolio
+
+**Thoughts**: The problem I got stuck on yesterday had a simple fix! It feels so good to be done deploying my full stack app. Now I will know how to do it for my next full stack project. I also updated my portfolio to include the new link and moved all my profile links to the data.json to clean it up.
