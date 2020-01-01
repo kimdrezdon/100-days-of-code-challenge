@@ -115,3 +115,12 @@
 **Today's Progress**: Finished deploying my full stack app to Heroku and updated my portfolio
 
 **Thoughts**: The problem I got stuck on yesterday had a simple fix! It feels so good to be done deploying my full stack app. Now I will know how to do it for my next full stack project. I also updated my portfolio to include the new link and moved all my profile links to the data.json to clean it up.
+
+### Day 15: January 1, Wednesday
+
+**Today's Progress**: Made decent progress on the Intermediate Algorithm Scripting section on FreeCodeCamp
+
+**Thoughts**: I got some practice using character codes to manipulate a string. Also got to work with the Fibonacci sequence!
+
+**Link(s) to work**:
+1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
