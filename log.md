@@ -124,3 +124,12 @@
 
 **Link(s) to work**:
 1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+### Day 16: January 2, Wednesday
+
+**Today's Progress**: Made more progress on the Intermediate Algorithm Scripting section on FreeCodeCamp
+
+**Thoughts**: I learned how to convert a binary string to text!
+
+**Link(s) to work**:
+1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
