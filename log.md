@@ -125,11 +125,20 @@
 **Link(s) to work**:
 1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
 
-### Day 16: January 2, Wednesday
+### Day 16: January 2, Thursday
 
 **Today's Progress**: Made more progress on the Intermediate Algorithm Scripting section on FreeCodeCamp
 
 **Thoughts**: I learned how to convert a binary string to text!
+
+**Link(s) to work**:
+1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+### Day 17: January 3, Friday
+
+**Today's Progress**: Finished the Intermediate Algorithm Scripting section on FreeCodeCamp
+
+**Thoughts**: I actually had fun doing a robust mathematical calculation of an orbital period. Am I a nerd?
 
 **Link(s) to work**:
 1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
