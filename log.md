@@ -43,6 +43,9 @@
 
 **Thoughts**: I learned how to create an issue and a new branch on my own repo in GitHub. I used youtube tutorials and articles to learn how to install mySQL and then convert the database on my full-stack app from sqlite to mySQL. Next I need to learn how to deploy to Heroku.
 
+**Link(s) to work**:
+1. [Course Database App](https://github.com/kimdrezdon/techdegree-project-10)
+
 ### Day 6: December 19, Thursday
 
 **Today's Progress**: Completed the Object Oriented Programming section on freeCodeCamp.  
@@ -77,6 +80,9 @@
 
 **Thoughts**: I reorganized and edited my app to prepare it for deployment. I got stuck trying to figure out the database part of it. I will work on that next time.
 
+**Link(s) to work**:
+1. [Course Database App](https://github.com/kimdrezdon/techdegree-project-10)
+
 ### Day 10: December 23, Monday
 
 **Today's Progress**: Completed the Functional Programming section on FreeCodeCamp  
@@ -110,11 +116,17 @@
 
 **Thoughts**: I was able to deploy it to Heroku and set up the clearDB database. When I test the heroku app locally it works fine. When I test just the heroku server locally I get an error that I can't resolve. I will try to fix tomorrow.
 
+**Link(s) to work**:
+1. [Course Database App](https://github.com/kimdrezdon/techdegree-project-10)
+
 ### Day 14: December 30, Monday
 
 **Today's Progress**: Finished deploying my full stack app to Heroku and updated my portfolio
 
 **Thoughts**: The problem I got stuck on yesterday had a simple fix! It feels so good to be done deploying my full stack app. Now I will know how to do it for my next full stack project. I also updated my portfolio to include the new link and moved all my profile links to the data.json to clean it up.
+
+**Link(s) to work**:
+1. [Course Database App](https://github.com/kimdrezdon/techdegree-project-10)
 
 ### Day 15: January 1, Wednesday
 
@@ -142,3 +154,12 @@
 
 **Link(s) to work**:
 1. [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/)
+
+### Day 18: January 4, Saturday
+
+**Today's Progress**: Improved my first techdegree project
+
+**Thoughts**: Added a feature to my Random Quote Generator project to prevent repeating phrases. 
+
+**Link(s) to work**:
+1. [Random Quote Generator](https://github.com/kimdrezdon/techdegree-project-1)
