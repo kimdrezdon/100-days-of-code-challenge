@@ -163,3 +163,12 @@
 
 **Link(s) to work**:
 1. [Random Quote Generator](https://github.com/kimdrezdon/techdegree-project-1)
+
+### Day 19: January 5, Sunday
+
+**Today's Progress**: Completed a HackerRank challenge
+
+**Thoughts**: I solved the Two Strings HackerRank challenge today. I was very tired and had a busy day, but I'm glad I found the time to fit in a quick challenge.
+
+**Link(s) to work**:
+1. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
