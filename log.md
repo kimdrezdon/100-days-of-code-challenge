@@ -172,3 +172,12 @@
 
 **Link(s) to work**:
 1. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+
+### Day 20: January 6, Monday
+
+**Today's Progress**: Refactored my second project
+
+**Thoughts**: I added a feature to my second techdegree project to allow for real-time filtering of a list. I also started refactoring my code using my improved coding skills to make it more DRY.
+
+**Link(s) to work**:
+1. [List Pagination and Filtering App](https://github.com/kimdrezdon/techdegree-project-2)
