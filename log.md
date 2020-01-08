@@ -181,3 +181,12 @@
 
 **Link(s) to work**:
 1. [List Pagination and Filtering App](https://github.com/kimdrezdon/techdegree-project-2)
+
+### Day 21: January 7, Tuesday
+
+**Today's Progress**: Refactored my second project
+
+**Thoughts**: I added a feature to allow user to change number of results displayed per page.
+
+**Link(s) to work**:
+1. [List Pagination and Filtering App](https://github.com/kimdrezdon/techdegree-project-2)
