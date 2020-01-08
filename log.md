@@ -190,3 +190,12 @@
 
 **Link(s) to work**:
 1. [List Pagination and Filtering App](https://github.com/kimdrezdon/techdegree-project-2)
+
+### Day 22: January 8, Wednesday
+
+**Today's Progress**: Finished improving my second project
+
+**Thoughts**: I fixed the CSS on my new feature and updated my portfolio with screenshots of the new look.
+
+**Link(s) to work**:
+1. [List Pagination and Filtering App](https://github.com/kimdrezdon/techdegree-project-2)
