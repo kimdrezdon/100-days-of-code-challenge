@@ -208,3 +208,12 @@
 
 **Link(s) to work**:
 1. [Code Phrase Generator](https://github.com/kimdrezdon/codephrase-generator)
+
+### Day 24: January 10, Friday
+
+**Today's Progress**: Completed a HackerRank challenge
+
+**Thoughts**: I solved the Random Note HackerRank challenge today. I had a busy word day, and it's Friday so I could only find the time to fit in a quick challenge. But I learned a lesson from it about altering an array inside a loop.
+
+**Link(s) to work**:
+1. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
