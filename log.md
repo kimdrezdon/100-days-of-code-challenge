@@ -199,3 +199,12 @@
 
 **Link(s) to work**:
 1. [List Pagination and Filtering App](https://github.com/kimdrezdon/techdegree-project-2)
+
+### Day 23: January 9, Thursday
+
+**Today's Progress**: Started working on a code phrase generator
+
+**Thoughts**: Started playing around with a words API. Need an app to generate a new phrase every day to replace "Go for a walk" so my dogs don't know what we're talking about.
+
+**Link(s) to work**:
+1. [Code Phrase Generator](https://github.com/kimdrezdon/codephrase-generator)
