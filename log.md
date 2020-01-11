@@ -217,3 +217,12 @@
 
 **Link(s) to work**:
 1. [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+
+### Day 25: January 11, Saturday
+
+**Today's Progress**: Refactored an event handler in Project 3
+
+**Thoughts**: I refactored an event handler callback function on my registration form project. I couldn't figure it out how to make it DRY when I first coded it, but had no problems with it now!
+
+**Link(s) to work**:
+1. [Registration Form](https://github.com/kimdrezdon/techdegree-project-3)
