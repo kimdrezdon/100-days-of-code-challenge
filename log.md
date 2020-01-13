@@ -226,3 +226,12 @@
 
 **Link(s) to work**:
 1. [Registration Form](https://github.com/kimdrezdon/techdegree-project-3)
+
+### Day 26: January 12, Sunday
+
+**Today's Progress**: Refactored Project 3
+
+**Thoughts**: I refactored a few things in my registration form project. I will continue this next time.
+
+**Link(s) to work**:
+1. [Registration Form](https://github.com/kimdrezdon/techdegree-project-3)
