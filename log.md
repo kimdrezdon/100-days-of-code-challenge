@@ -235,3 +235,12 @@
 
 **Link(s) to work**:
 1. [Registration Form](https://github.com/kimdrezdon/techdegree-project-3)
+
+### Day 27: January 13, Monday
+
+**Today's Progress**: Refactored Project 3
+
+**Thoughts**: Did some more refactoring. I learned how to select elements with jQuery by the text they contain.
+
+**Link(s) to work**:
+1. [Registration Form](https://github.com/kimdrezdon/techdegree-project-3)
