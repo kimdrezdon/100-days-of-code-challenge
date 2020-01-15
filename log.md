@@ -253,3 +253,12 @@
 
 **Link(s) to work**:
 1. [Registration Form](https://github.com/kimdrezdon/techdegree-project-3)
+
+### Day 29: January 15, Wednesday
+
+**Today's Progress**: Refactored Project 3
+
+**Thoughts**: Did some more refactoring. I improved my event handler for disabling checkboxes on conflicting workshops. Not it will check for the text content of the element, which is more flexible than hardcoding in the conflicting options. Also it can now handle disabling all conflicting workshops, instead of just one. 
+
+**Link(s) to work**:
+1. [Registration Form](https://github.com/kimdrezdon/techdegree-project-3)
