@@ -271,3 +271,12 @@
 
 **Link(s) to work**:
 1. [Registration Form](https://github.com/kimdrezdon/techdegree-project-3)
+
+### Day 31: January 20, Monday
+
+**Today's Progress**: Experimented with codephrase generator app
+
+**Thoughts**: Having trouble finding a good api for this.  
+
+**Link(s) to work**:
+1. [Code Phrase Generator](https://github.com/kimdrezdon/codephrase-generator)
