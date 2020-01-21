@@ -280,3 +280,12 @@
 
 **Link(s) to work**:
 1. [Code Phrase Generator](https://github.com/kimdrezdon/codephrase-generator)
+
+### Day 31: January 21, Tuesday
+
+**Today's Progress**: Experimented with codephrase generator app
+
+**Thoughts**: Tried hardcoding different types of words and mixing them together into a phrase, but most of the results don't make sense. I might need to use an API just to help create phrases that make sense.  
+
+**Link(s) to work**:
+1. [Code Phrase Generator](https://github.com/kimdrezdon/codephrase-generator)
