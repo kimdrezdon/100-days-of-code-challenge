@@ -281,7 +281,7 @@
 **Link(s) to work**:
 1. [Code Phrase Generator](https://github.com/kimdrezdon/codephrase-generator)
 
-### Day 31: January 21, Tuesday
+### Day 32: January 21, Tuesday
 
 **Today's Progress**: Experimented with codephrase generator app
 
@@ -289,3 +289,12 @@
 
 **Link(s) to work**:
 1. [Code Phrase Generator](https://github.com/kimdrezdon/codephrase-generator)
+
+### Day 33: January 22, Wednesday
+
+**Today's Progress**: Improved Project 4
+
+**Thoughts**: I added a feature to prevent repeating phrases. I also fixed my keyup event listener which wasn't working because I was comparing lowercase letters to uppercase letters, I know it was working before so I must have accidentally changed it.   
+
+**Link(s) to work**:
+1. [OOP Game Show App](https://github.com/kimdrezdon/techdegree-project-4)
