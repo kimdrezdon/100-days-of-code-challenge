@@ -299,7 +299,7 @@
 **Link(s) to work**:
 1. [OOP Game Show App](https://github.com/kimdrezdon/techdegree-project-4)
 
-### Day 34: January 23, Wednesday
+### Day 34: January 23, Thursday
 
 **Today's Progress**: Improved Project 4
 
@@ -307,3 +307,12 @@
 
 **Link(s) to work**:
 1. [OOP Game Show App](https://github.com/kimdrezdon/techdegree-project-4)
+
+### Day 35: January 24, Friday
+
+**Today's Progress**: Improved Project 5
+
+**Thoughts**: I refactored the addElement function to make my code more DRY, and added a real time filtering feature to the search component.
+
+**Link(s) to work**:
+1. [Public API Requests](https://github.com/kimdrezdon/techdegree-project-5)
