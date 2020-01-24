@@ -298,3 +298,12 @@
 
 **Link(s) to work**:
 1. [OOP Game Show App](https://github.com/kimdrezdon/techdegree-project-4)
+
+### Day 34: January 23, Wednesday
+
+**Today's Progress**: Improved Project 4
+
+**Thoughts**: I cleaned up the CSS files by removing any rules that weren't being used. I learned how to use Chrome Dev Tools to do this. Also removed the animate css file because I wasn't using it.   
+
+**Link(s) to work**:
+1. [OOP Game Show App](https://github.com/kimdrezdon/techdegree-project-4)
