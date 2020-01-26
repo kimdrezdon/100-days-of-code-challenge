@@ -316,3 +316,12 @@
 
 **Link(s) to work**:
 1. [Public API Requests](https://github.com/kimdrezdon/techdegree-project-5)
+
+### Day 36: January 25, Saturday
+
+**Today's Progress**: Enrolled in a Computer Science course
+
+**Thoughts**: I watched the lecture for Week 0 and created a game on Scratch. Tomorrow I just need to submit it and move on to week 1.
+
+**Link(s) to work**:
+1. [My Scratch Game](https://scratch.mit.edu/projects/362514417/)
