@@ -325,3 +325,12 @@
 
 **Link(s) to work**:
 1. [My Scratch Game](https://scratch.mit.edu/projects/362514417/)
+
+### Day 37: January 26, Sunday
+
+**Today's Progress**: Submitted Week 0 assignment
+
+**Thoughts**: Next I can move on to week 1.
+
+**Link(s) to work**:
+1. [My Scratch Game](https://scratch.mit.edu/projects/362514417/)
