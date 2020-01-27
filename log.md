@@ -334,3 +334,12 @@
 
 **Link(s) to work**:
 1. [My Scratch Game](https://scratch.mit.edu/projects/362514417/)
+
+### Day 38: January 27, Monday
+
+**Today's Progress**: Watched week 1 lecture
+
+**Thoughts**: Learned the basics of the C language which was relatively easy to understand since it is somewhat similar to javascript.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
