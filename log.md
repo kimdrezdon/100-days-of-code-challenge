@@ -343,3 +343,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 39: January 28, Tuesday
+
+**Today's Progress**: Watched week 1 shorts and started problem set
+
+**Thoughts**: I made a program that prints out a hash pyramid with a gap in the middle, based on the user's input. Like a mario game.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
