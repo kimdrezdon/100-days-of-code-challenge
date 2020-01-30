@@ -352,3 +352,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 40: January 29, Wednesday
+
+**Today's Progress**: Finished Week 1 problem set
+
+**Thoughts**: I wrote a script that checks a credit card number to see if it's valid and determines which type of credit card it is.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
