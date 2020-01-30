@@ -361,3 +361,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 41: January 30, Thursday
+
+**Today's Progress**: Started Week 2 lecture
+
+**Thoughts**: Started watching week 2 lecture, busy day with water pipe leak!
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
