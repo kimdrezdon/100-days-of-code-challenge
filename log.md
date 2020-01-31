@@ -370,3 +370,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 42: January 31, Friday
+
+**Today's Progress**: Continued Week 2 lecture
+
+**Thoughts**: Continued watching week 2 lecture, will finished tomorrow!
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
