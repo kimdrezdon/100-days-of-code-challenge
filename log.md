@@ -379,3 +379,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 43: February 1, Saturday
+
+**Today's Progress**: Finished Week 2 lecture
+
+**Thoughts**: Finished week 2 lecture, will start the problem set tomorrow!
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
