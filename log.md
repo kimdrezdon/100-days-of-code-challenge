@@ -388,3 +388,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 44: February 2, Sunday
+
+**Today's Progress**: Started Week 2 problem set
+
+**Thoughts**: Finished one problem from the week 2 problem set, a program that computes the approximate grade level needed to comprehend some text.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
