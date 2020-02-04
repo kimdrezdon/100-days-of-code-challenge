@@ -397,3 +397,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 45: February 3, Monday
+
+**Today's Progress**: Started a React Native tutorial
+
+**Thoughts**: Started watching a crash course on React Native in preparation for an app I'd like to make for my sister-in-law.
+
+**Link(s) to work**:
+1. [React Native Tutorial for Beginners](https://www.youtube.com/watch?v=qSRrxpdMpVc)
