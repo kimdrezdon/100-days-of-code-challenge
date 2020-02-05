@@ -406,3 +406,12 @@
 
 **Link(s) to work**:
 1. [React Native Tutorial for Beginners](https://www.youtube.com/watch?v=qSRrxpdMpVc)
+
+### Day 46: February 4, Tuesday
+
+**Today's Progress**: Finished Week 2 problem set
+
+**Thoughts**: Finished the last problem from the week 2 problem set, a program that implements a substitution cipher to encrypt a message.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
