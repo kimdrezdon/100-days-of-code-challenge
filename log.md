@@ -415,3 +415,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 47: February 8, Saturday
+
+**Today's Progress**: Watched Week 3 lecture
+
+**Thoughts**: Took a few days off because I was sick. Watched week 3 lecture, learned about the different types of sorting algorithms and big O notation.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
