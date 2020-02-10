@@ -424,3 +424,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 47: February 9, Sunday
+
+**Today's Progress**: Watched Week 3 short videos
+
+**Thoughts**: Watched the short videos for week 3, will start the problem set tomorrow.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
