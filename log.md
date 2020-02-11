@@ -433,3 +433,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 48: February 10, Monday
+
+**Today's Progress**: Started Week 3 problem set
+
+**Thoughts**: Completed the first half the the problem set. I finished up a partially pre-written program that simulated a plurality vote election.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
