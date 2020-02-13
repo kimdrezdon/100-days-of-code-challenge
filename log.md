@@ -451,3 +451,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 51: February 11, Wednesday
+
+**Today's Progress**: Almost finished second half of Week 3 problem set
+
+**Thoughts**: This problem was very tedious to figure out, and I spent all night on it. I almost finished but got stuck on trying to find cycles in a graph...definitely need to come back to it tomorrow with fresh eyes.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
