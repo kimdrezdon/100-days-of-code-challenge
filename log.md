@@ -460,3 +460,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 52: February 12, Thursday
+
+**Today's Progress**: Finished second problem of the Week 3 problem set
+
+**Thoughts**: I learned a lot from this problem, but it also gave me a headache at times! I wrote a program in C that runs a Tideman election and prints out the winner. So glad to be done!
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
