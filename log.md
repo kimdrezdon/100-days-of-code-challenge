@@ -478,3 +478,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 54: February 15, Saturday
+
+**Today's Progress**: Watched some more of week 4 lecture.
+
+**Thoughts**: Still learning about memory 
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
