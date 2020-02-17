@@ -496,3 +496,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 56: February 17, Monday
+
+**Today's Progress**: Finished week 4 additional videos. 
+
+**Thoughts**: There was a very helpful illustration of using recursion in these videos. I'm also excited that I'm learning how to write to a csv file! 
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
