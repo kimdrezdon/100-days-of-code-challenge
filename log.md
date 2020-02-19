@@ -505,3 +505,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 57: February 18, Tuesday
+
+**Today's Progress**: Started week 4 problem set.
+
+**Thoughts**: I learned how to write a greyscale image filter!
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
