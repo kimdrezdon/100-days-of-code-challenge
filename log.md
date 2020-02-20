@@ -514,3 +514,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 58: February 19, Wednesday
+
+**Today's Progress**: Continued week 4 problem set.
+
+**Thoughts**: Today I learned how to write a flip image filter! Almost finished my blur filter too but got stuck trying to figure out how to return a new image in my loop instead of changing the original one.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
