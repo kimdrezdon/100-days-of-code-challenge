@@ -532,3 +532,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 60: February 21, Friday
+
+**Today's Progress**: Continued week 4 problem set.
+
+**Thoughts**: I fixed my blur filter and now it works! I think I was expecting C to work like JavaScript, which obviously it doesn't. Also, had interpreted the problem a bit incorrectly. Regardless, it works now and I can enjoy my weekend!
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
