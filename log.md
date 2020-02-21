@@ -523,3 +523,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 59: February 20, Thursday
+
+**Today's Progress**: Continued week 4 problem set.
+
+**Thoughts**: Today I fixed the rounding errors in my greyscale and flip image filters. I tried finishing my blur filter, but apparently I don't understand memory allocation as much as I thought I did. I can't figure out what's wrong with it!
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
