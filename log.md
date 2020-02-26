@@ -541,3 +541,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 61: February 25, Tuesday
+
+**Today's Progress**: Continued week 4 problem set.
+
+**Thoughts**: Took a few days off to focus on work and for personal reasons. Today I improved my blur filter, and started working on an edge filter that highlights the edges between objects in an image.
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
