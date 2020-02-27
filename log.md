@@ -550,3 +550,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 62: February 26, Wednesday
+
+**Today's Progress**: Continued week 4 problem set.
+
+**Thoughts**: I thought I finished my edge filter tonight, but something's wrong with the red values on all the border pixels and I can't figure out what's going on! It's probably something simple, but it's time for bed, I'll try again tomorrow!
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
