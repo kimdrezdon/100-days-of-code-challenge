@@ -559,3 +559,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 1: March 14, Saturday
+
+**Today's Progress**: Restarted challenge
+
+**Thoughts**: Finished my my edge filter. 
+
+**Link(s) to work**:
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
