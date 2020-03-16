@@ -568,3 +568,12 @@
 
 **Link(s) to work**:
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 2: March 15, Sunday
+
+**Today's Progress**: Basic JavaScript lessons on freeCodeCamp
+
+**Thoughts**: Today, I just ran through some basic javascript lessons on freeCodeCamp to get me back in the mood. Going through cs50 has me wondering if I'm forgetting my main squeeze, javascript!
+
+**Link(s) to work**:
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
