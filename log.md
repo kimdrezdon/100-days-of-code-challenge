@@ -577,3 +577,12 @@
 
 **Link(s) to work**:
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Day 3: March 16, Monday
+
+**Today's Progress**: Basic JavaScript lessons on freeCodeCamp
+
+**Thoughts**: Made decent progress today in the basic javascript section on freeCodeCamp. I will get back to my CS50 class again sometime this week. 
+
+**Link(s) to work**:
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
