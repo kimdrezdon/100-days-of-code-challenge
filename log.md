@@ -586,3 +586,12 @@
 
 **Link(s) to work**:
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Day 4: March 17, Tuesday
+
+**Today's Progress**: Basic JavaScript lessons on freeCodeCamp
+
+**Thoughts**: Finished this section. I still struggle with recursion, probably because I don't use it enough. Practice makes perfect, or at least better!
+
+**Link(s) to work**:
+1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
