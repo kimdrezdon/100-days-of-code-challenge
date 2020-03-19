@@ -595,3 +595,12 @@
 
 **Link(s) to work**:
 1. [Basic JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+
+### Day 5: March 18, Wednesday
+
+**Today's Progress**: ES6 lessons on freeCodeCamp
+
+**Thoughts**: Started the ES6 section on freeCodeCamp. When work is  busy, and there's a global pandemic, it can be hard to also fit in coding on the side. So I'm keeping it simple these days.
+
+**Link(s) to work**:
+1. [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
