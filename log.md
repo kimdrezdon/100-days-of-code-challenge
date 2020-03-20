@@ -604,3 +604,12 @@
 
 **Link(s) to work**:
 1. [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+
+### Day 6: March 19, Thursday
+
+**Today's Progress**: ES6 lessons on freeCodeCamp
+
+**Thoughts**: Continued the ES6 section on freeCodeCamp. Will finish it up tomorrow for sure.
+
+**Link(s) to work**:
+1. [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
