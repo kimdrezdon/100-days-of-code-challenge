@@ -613,3 +613,12 @@
 
 **Link(s) to work**:
 1. [ES6](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/es6/)
+
+### Day 7: March 20, Friday
+
+**Today's Progress**: ES6 and Regular Expressions lessons on freeCodeCamp
+
+**Thoughts**: Finished the ES6 section and then started on the Regular Expressions section on @freeCodeCamp . Will finish it up tomorrow.
+
+**Link(s) to work**:
+1. [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
