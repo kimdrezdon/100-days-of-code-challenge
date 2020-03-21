@@ -622,3 +622,12 @@
 
 **Link(s) to work**:
 1. [Regular Expressions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/regular-expressions/)
+
+### Day 8: March 21, Saturday
+
+**Today's Progress**: Received a certificate on freeCodeCamp
+
+**Thoughts**: Today I completed and received the JavaScript Algorithms and Data Structures Certification on freeCodeCamp! I also updated my portfolio by adding links to my certifications.
+
+**Link(s) to work**:
+1. [freeCodeCamp](https://www.freecodecamp.org/learn/)
