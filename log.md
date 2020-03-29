@@ -711,3 +711,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 10: March 29, Sunday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued working on Udemy course. One thing that is helpful about this is learning how to use VSCode keyboard shortcuts.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
