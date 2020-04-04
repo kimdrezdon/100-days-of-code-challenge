@@ -721,3 +721,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 11: April 4, Saturday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Worked through the second project on my udemy course, making a movie seat/ticket selection app. Getting better at using Emmet in Visual Studio Code, and learned about using local storage.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
