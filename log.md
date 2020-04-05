@@ -731,3 +731,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 12: April 5, Sunday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Worked through the third project on my udemy course, making a custom video player. This was my first time learning how to add a video and controls to a webpage.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
