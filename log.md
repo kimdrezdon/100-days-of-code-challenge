@@ -741,3 +741,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 13: April 6, Monday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Started through the fourth project on my udemy course, making a exchange rate calculator. I'm still practicing using the Emmet keyboard shortuts on Visual Studio Code. Brad can code so much faster than I can but this is helping me catch up to his speed.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
