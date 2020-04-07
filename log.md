@@ -751,3 +751,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 14: April 7, Tuesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the fourth project on my udemy course, making a exchange rate calculator. This helped refresh my memory on using fetch.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
