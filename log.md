@@ -761,3 +761,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 15: April 8, Wednesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the fifth project on my udemy course. This project utilized the Random User Generator and various array methods to display, sort and filter them.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
