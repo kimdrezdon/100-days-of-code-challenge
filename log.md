@@ -771,3 +771,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 16: April 9, Thursday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Started the sixth project on my udemy course. Today I learned the lorem shortcut in VSCode to auto generate random lorem ipsum words in your html!
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
