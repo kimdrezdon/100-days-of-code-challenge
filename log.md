@@ -781,3 +781,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 17: April 10, Friday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the sixth project on my udemy course. This one was heavily CSS, working with modals and side menus. Made me want to take a full CSS course, because right now my CSS skills are just trial and error!
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
