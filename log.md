@@ -791,3 +791,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 18: April 11, Saturday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the seventh project on my udemy course, a hangman game. This was fun because I got to learn how to use the svg tag to draw something inside my html.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
