@@ -801,3 +801,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 19: April 12, Sunday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the eighth project on my udemy course, a meal finder. This was fun because it involved food and using a third party API. The API wasn't structured very intuitively so it made it a little more challenging as well.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
