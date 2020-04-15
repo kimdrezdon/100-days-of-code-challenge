@@ -831,3 +831,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 22: April 15, Wednesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 9th project on my udemy course, an expense tracker. I look forward to expanding on this project in the future.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
