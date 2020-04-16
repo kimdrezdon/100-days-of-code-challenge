@@ -841,3 +841,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 23: April 16, Thursday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 10th project on my udemy course, a music player. This was really fun, I learned about the audio API and got to use songs from my own library!
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
