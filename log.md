@@ -851,3 +851,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 24: April 18, Saturday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 11th project on my udemy course, a blog with an infinite scroll and filtering. This was an essential but interesting project, and I like learning how to add the loading indicator with CSS.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
