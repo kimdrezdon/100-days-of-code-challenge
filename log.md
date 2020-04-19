@@ -861,3 +861,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 25: April 19, Sunday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 12th project on my udemy course, a typing game. This was a fun project, incorporating a timer, difficulty levels and utilizing local storage.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
