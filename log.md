@@ -871,3 +871,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 26: April 21, Tuesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 13th project on my udemy course, a text reader. This was fun altering it to fit my own purposes and playing around with the different voices. I would have never thought to make an app like this.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
