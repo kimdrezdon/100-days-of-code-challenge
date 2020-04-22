@@ -881,3 +881,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 27: April 22, Wednesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 14th project on my udemy course, a flash card app. The CSS was challenging on this one, I'm trying to practice both CSS and JavaScript by pausing the tutorial, trying to do it by myself, and then checking to see if I got it right.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
