@@ -891,3 +891,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 28: April 23, Thursday
+
+**Today's Progress**: Updated my portfolio and changed my repo names
+
+**Thoughts**: Just did some maintenance to make my portfolio look a bit better and changed my repo names now that I'm not in school anymore to more appropriate names.
+
+**Link(s) to work**:
+
+1. [My Portfolio](https://kim-drezdon.herokuapp.com/)
