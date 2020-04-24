@@ -901,3 +901,13 @@
 **Link(s) to work**:
 
 1. [My Portfolio](https://kim-drezdon.herokuapp.com/)
+
+### Day 29: April 24, Friday
+
+**Today's Progress**: Speech Text Reader
+
+**Thoughts**: Altered the speech text reader app from Brad Traversy's Udemy course at the request of Dylan, who wanted to use it for his music. Added a speech rate menu, and stop and pause/resume buttons.
+
+**Link(s) to work**:
+
+1. [Speech Text Reader](https://kimdrezdon.github.io/speech-text-reader/)
