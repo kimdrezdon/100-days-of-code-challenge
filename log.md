@@ -911,3 +911,13 @@
 **Link(s) to work**:
 
 1. [Speech Text Reader](https://kimdrezdon.github.io/speech-text-reader/)
+
+### Day 30: April 25, Saturday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 15th project on my udemy course, a lyrics search app. I'd be interested to experiment with a different API for this project, since there were a lot of duplicate results from the API we used.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
