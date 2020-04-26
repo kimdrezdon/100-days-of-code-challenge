@@ -921,3 +921,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 31: April 26, Sunday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 16th project on my udemy course, a breathing exercise app. This reminded me of the breathing bubble on the Calm app. I enjoyed customizing the styling to fit my own tastes, and learning the animations.
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
