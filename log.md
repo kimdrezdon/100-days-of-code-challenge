@@ -931,3 +931,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 32: April 27, Monday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 17th and 19th projects on my udemy course, a brick breaker game and a new years countdown app. These were both a lot of fun!
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
