@@ -936,7 +936,17 @@
 
 **Today's Progress**: Continued Udemy course
 
-**Thoughts**: Finished the 17th and 19th projects on my udemy course, a brick breaker game and a new years countdown app. These were both a lot of fun!
+**Thoughts**: Finished the 17th and 18th projects on my udemy course, a brick breaker game and a new years countdown app. These were both a lot of fun!
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 33: April 28, Tuesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Finished the 19th project on my udemy course, a sortable list utilizing drag and drop. I had never worked with draggable elements before so this was very interesting and new to me. I also read a bit from my Computer Science Distilled book while my computer installed updates.
 
 **Link(s) to work**:
 
