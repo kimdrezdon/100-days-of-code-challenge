@@ -951,3 +951,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 34: April 29, Wednesday
+
+**Today's Progress**: Finished Udemy course
+
+**Thoughts**: Finished the 20th project on my udemy course, a number guessing game using Speech Recognition. I had never worked with speech recognition before, so this was very exciting. This was the last project of the course, so I also received my certificate!
+
+**Link(s) to work**:
+
+1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
