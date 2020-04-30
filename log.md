@@ -961,3 +961,13 @@
 **Link(s) to work**:
 
 1. [20 Web Projects With Vanilla JavaScript](https://www.udemy.com/course/web-projects-with-vanilla-javascript/)
+
+### Day 35: April 30, Thursday
+
+**Today's Progress**: Portfolio and CS50
+
+**Thoughts**: I improved upon my portfolio a bit. I also rewatched the Week 4 CS50 lecture in order to get back into it.
+
+**Link(s) to work**:
+
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
