@@ -971,3 +971,13 @@
 **Link(s) to work**:
 
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 36: May 1, Friday
+
+**Today's Progress**: CS50 and Traversy tutorials
+
+**Thoughts**: Worked on the CS50 Week 4 - Recover problem. Recreated the Udemy course's expense tracker app using React by following along with Brad Traversy's youtube tutorial.
+
+**Link(s) to work**:
+
+1. [Expense Tracker - React](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=WL&index=19)
