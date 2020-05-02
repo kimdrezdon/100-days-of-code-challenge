@@ -981,3 +981,13 @@
 **Link(s) to work**:
 
 1. [Expense Tracker - React](https://www.youtube.com/watch?v=XuFDcZABiDQ&list=WL&index=19)
+
+### Day 37: May 2, Saturday
+
+**Today's Progress**: Started Udemy course
+
+**Thoughts**: Started the React Front to Back course on Udemy.
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
