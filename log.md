@@ -991,3 +991,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 38: May 3, Sunday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the React Front to Back course on Udemy. Finished creating the 1st project using class/function components, state and props. Will refactor tomorrow to use hooks.
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
