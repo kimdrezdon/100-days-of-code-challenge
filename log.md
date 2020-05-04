@@ -996,7 +996,17 @@
 
 **Today's Progress**: Continued Udemy course
 
-**Thoughts**: Continued the React Front to Back course on Udemy. Finished creating the 1st project using class/function components, state and props. Will refactor tomorrow to use hooks.
+**Thoughts**: Continued the React Front to Back course on Udemy. Finished creating the 1st project using class/functional components, state and props. Will refactor tomorrow to use hooks.
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 39: May 4, Monday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the React Front to Back course on Udemy. Finished recreating the 1st project using hooks and context.
 
 **Link(s) to work**:
 
