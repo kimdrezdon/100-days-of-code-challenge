@@ -1011,3 +1011,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 40: May 5, Tuesday
+
+**Today's Progress**: CS50
+
+**Thoughts**: I finally finished the CS50 Week 4 problem set. I was stuck trying to figure out how to recover deleted jpegs from a raw data file. I almost gave up on this course because of it. But today I finally figured it out and it feels so good!!
+
+**Link(s) to work**:
+
+1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
