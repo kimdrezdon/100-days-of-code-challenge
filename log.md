@@ -1021,3 +1021,13 @@
 **Link(s) to work**:
 
 1. [CS50](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
+
+### Day 41: May 6, Wednesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the React Front to Back course on Udemy. Learned how to deploy a React app to Netlify, which I have not used before. Also bought a domain name for my portfolio!
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
