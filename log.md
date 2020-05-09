@@ -1031,3 +1031,23 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 42: May 7, Thursday
+
+**Today's Progress**: Updated my portfolio
+
+**Thoughts**: Just did some maintenance to make my portfolio work a bit better. Also, set up my portfolio to redirect to my newly purchased domain name!
+
+**Link(s) to work**:
+
+1. [My Portfolio](https://www.kimdrezdon.com)
+
+### Day 43: May 9, Saturday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the React Front to Back course on Udemy. Started the full stack MERN app, setting up Express and MongoDB, user model and users routes, bcrypt passwords and json web tokens.
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
