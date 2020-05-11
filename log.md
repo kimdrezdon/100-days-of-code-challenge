@@ -1051,3 +1051,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 44: May 10, Sunday
+
+**Today's Progress**: Worked on old projects
+
+**Thoughts**: I did some maintenance on my portfolio, fixing the mobile appearance. I also worked on my full stack course app, organizing my routes into separate files.
+
+**Link(s) to work**:
+
+1. [My Portfolio](https://www.kimdrezdon.com)
