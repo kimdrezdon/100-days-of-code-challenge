@@ -1071,3 +1071,13 @@
 **Link(s) to work**:
 
 1. [CSS: The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+
+### Day 46: May 12, Tuesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the React Front to Back course on Udemy. Continued the full stack MERN app, adding authentication middleware, protected routes, the contact model and contact routes.
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
