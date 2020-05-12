@@ -1061,3 +1061,13 @@
 **Link(s) to work**:
 
 1. [My Portfolio](https://www.kimdrezdon.com)
+
+### Day 45: May 11, Monday
+
+**Today's Progress**: Started Udemy course
+
+**Thoughts**: Started the CSS: The Complete Guide course on Udemy. My brain was fried today so I needed something easy to do. I look forward to getting better at CSS though!
+
+**Link(s) to work**:
+
+1. [CSS: The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
