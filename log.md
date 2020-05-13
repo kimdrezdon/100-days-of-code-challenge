@@ -1081,3 +1081,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 47: May 13, Wednesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the CSS: The Complete Guide course on Udemy. Learned about the box model today.
+
+**Link(s) to work**:
+
+1. [CSS: The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
