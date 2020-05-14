@@ -1091,3 +1091,13 @@
 **Link(s) to work**:
 
 1. [CSS: The Complete Guide](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/)
+
+### Day 48: May 14, Thursday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the React Front to Back course on Udemy. Continued the Contact Keeper app, setting up the React client side, context, components and routes. Started adding methods to context like the Add Contact method.
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
