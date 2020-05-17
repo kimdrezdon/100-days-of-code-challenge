@@ -1111,3 +1111,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 50: May 16, Saturday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the React Front to Back course on Udemy. Continued the Contact Keeper app, adding contact filtering, auth context, and the register and login components.
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
