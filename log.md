@@ -1131,3 +1131,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 52: May 18, Monday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the React Front to Back course on Udemy. Continued the Contact Keeper app, adding back end integration with the contacts components/context. Also deployed app to Heroku.
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
