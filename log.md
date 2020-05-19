@@ -1141,3 +1141,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 53: May 19, Tuesday
+
+**Today's Progress**: Started rebuilding old project
+
+**Thoughts**: I started rebuilding my full stack app using the knowledge I've obtained by taking the React Front to Back course. Trying to make it cleaner, incorporating jwtoken instead of basic-auth, using React hooks, organizing components into folders, etc.
+
+**Link(s) to work**:
+
+1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
