@@ -1151,3 +1151,13 @@
 **Link(s) to work**:
 
 1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
+
+### Day 54: May 21, Thursday
+
+**Today's Progress**: Helped someone solve a coding challenge.
+
+**Thoughts**: Today I practiced explaining and teaching javascript. We worked together solving a credit card number checker algorithm.
+
+**Link(s) to work**:
+
+1. [Codecademy](https://www.codecademy.com/)
