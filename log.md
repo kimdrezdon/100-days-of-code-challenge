@@ -1161,3 +1161,13 @@
 **Link(s) to work**:
 
 1. [Codecademy](https://www.codecademy.com/)
+
+### Day 55: May 30, Saturday
+
+**Today's Progress**: Continued rebuilding old project
+
+**Thoughts**: Continued rebuilding my full stack app. I finished updating the api to use jwt token and express validator. Also worked on the Header and SignIn components/functionality.
+
+**Link(s) to work**:
+
+1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
