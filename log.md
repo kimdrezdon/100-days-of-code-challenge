@@ -1171,3 +1171,13 @@
 **Link(s) to work**:
 
 1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
+
+### Day 56: June 1, Monday
+
+**Today's Progress**: Helped someone solve a coding challenge.
+
+**Thoughts**: Today I practiced explaining and teaching javascript. We worked together writing a random meal picker using object-oriented programming.
+
+**Link(s) to work**:
+
+1. [Codecademy](https://www.codecademy.com/)
