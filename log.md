@@ -1181,3 +1181,13 @@
 **Link(s) to work**:
 
 1. [Codecademy](https://www.codecademy.com/)
+
+### Day 57: June 2, Tuesday
+
+**Today's Progress**: Continued rebuilding old project
+
+**Thoughts**: Continued rebuilding my full stack app. I finished updating the SignOut and SignUp components/functionality.
+
+**Link(s) to work**:
+
+1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
