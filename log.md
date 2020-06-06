@@ -1201,3 +1201,13 @@
 **Link(s) to work**:
 
 1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
+
+### Day 59: June 6, Saturday
+
+**Today's Progress**: Continued rebuilding old project
+
+**Thoughts**: Continued rebuilding my full stack app. I finished the Update Course functionality, and combined the Update Course and Create Course into one component.
+
+**Link(s) to work**:
+
+1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
