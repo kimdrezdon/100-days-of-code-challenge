@@ -1211,3 +1211,13 @@
 **Link(s) to work**:
 
 1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
+
+### Day 60: June 7, Sunday
+
+**Today's Progress**: Continued rebuilding old project
+
+**Thoughts**: Continued rebuilding my full stack app. I added an error context to utilize in displaying errors throughout the app.
+
+**Link(s) to work**:
+
+1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
