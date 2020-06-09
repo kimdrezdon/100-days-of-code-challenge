@@ -1221,3 +1221,13 @@
 **Link(s) to work**:
 
 1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
+
+### Day 61: June 9, Tuesday
+
+**Today's Progress**: Continued rebuilding old project
+
+**Thoughts**: Continued rebuilding my full stack app. I added some rerouting to not found and error pages when receiving error messages back from the api.
+
+**Link(s) to work**:
+
+1. [Course Database App](https://github.com/kimdrezdon/full-stack-course-database)
