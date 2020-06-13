@@ -1251,3 +1251,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 64: June 13, Saturday
+
+**Today's Progress**: Completed Udemy course
+
+**Thoughts**: Completed the React Front to Back course on Udemy. I finally learned about React Hooks and Redux, and I feel so much more confident in my React skills thanks to Brad's course!
+
+**Link(s) to work**:
+
+1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
