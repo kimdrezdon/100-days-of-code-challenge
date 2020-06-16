@@ -1261,3 +1261,13 @@
 **Link(s) to work**:
 
 1. [React Front to Back](https://www.udemy.com/course/modern-react-front-to-back/)
+
+### Day 65: June 15, Monday
+
+**Today's Progress**: Started Udemy course
+
+**Thoughts**: Started the Master the Coding Interview course on Udemy. The first thing we are covering is big O notation.
+
+**Link(s) to work**:
+
+1. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
