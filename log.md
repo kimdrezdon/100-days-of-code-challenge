@@ -1301,3 +1301,13 @@
 **Link(s) to work**:
 
 1. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
+### Day 69: June 25, Thursday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the Master the Coding Interview course on Udemy. Finished the array section. Signed up for Leetcode
+
+**Link(s) to work**:
+
+1. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
