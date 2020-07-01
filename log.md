@@ -1311,3 +1311,13 @@
 **Link(s) to work**:
 
 1. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
+### Day 70: July 1, Wednesday
+
+**Today's Progress**: Continued Udemy course
+
+**Thoughts**: Continued the Master the Coding Interview course on Udemy. Got halfway through the hash tables lesson.
+
+**Link(s) to work**:
+
+1. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
