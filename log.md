@@ -1321,3 +1321,11 @@
 **Link(s) to work**:
 
 1. [Master the Coding Interview](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+
+### 9/12/20
+
+**Today's Progress**: Took almost 2.5 months off because we bought a house. Decided to stop counting days in this challenge but still keep a log of what I'm working on. Today I did some 8kyu and 7kyu Codewars challenges, I was a little bit rusty! Also fixed dependency vulnerabilities on a bunch of projects.
+
+**Link(s) to work**:
+
+1. [Codewars](https://www.codewars.com/users/kimdrezdon)
